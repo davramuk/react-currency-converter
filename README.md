@@ -1,3 +1,7 @@
+<h1>Description</h1>
+<h2>Currency converter application made with React and MUI. Exchange rates were taken from https://apilayer.com/</h2>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
